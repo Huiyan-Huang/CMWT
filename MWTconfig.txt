@@ -1,0 +1,7 @@
+java -Xmx512M -jar C:\CMWT\Chore.jar -p 0.02727 -M 2 -s 0.1 -S --shadowless -t 20 -N all -o nss*tmb --plugin Reoutline --plugin Respine
+--map -O 900s
+
+Usage:
+The first line defines the parameters goes before <working directory>
+The second line defines the parameters goes after <working directory>
+The rest of this file can be of anything.
